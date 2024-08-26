@@ -47,33 +47,4 @@ A full-stack job portal application built using MongoDB, Express, React, and Nod
 
 - [MongoDB](https://www.mongodb.com/)
 
-## Screenshots
-![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/c8ce0b8f-3683-4a62-af60-63b95b51de02)
----- -
-![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/efd68d93-d46e-461a-944c-6e5a3d014f5f)
----- -
-![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/ad4fac7f-1e71-4a72-9b9a-ac32b10aa8e3)
----- -
-![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/71ec690f-a0f9-43f3-8302-687fca30895c)
 
-## Author
-- Github: [Aditya Raj](https://github.com/RajAditya01)
-- Linkedin: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
-- Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
-
-## License
-
-MIT License
-
-Copyright (c) 2024 Aditya Raj
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Modifications to the Software are not permitted without explicit written
-permission from the original copyright holder, Aditya Raj.
